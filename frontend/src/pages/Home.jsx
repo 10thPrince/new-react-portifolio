@@ -7,25 +7,27 @@ import About from '../components/About'
 import Skills from '../components/Skills'
 import Projects from '../components/Projects'
 import Contact from '../components/Contact'
+import Footer from '../components/Footer'
 
 const Home = () => {
   return (
     <div className='min-h-screen bg-background text-foreground overflow-x-hidden'>
-        {/* Theme toggle */}
-          <ThemeToggle />
-        {/* Background effect */}
-          <StarBackground />
-        {/* Navbar */}
-          <Navbar />
-        {/* Main content */}
-          <main>
-            <HeroSection />
-            <About />
-            <Skills />
-            <Projects />
-            <Contact />
-          </main>
-        {/* Footer */}
+      {/* Theme toggle */}
+      <ThemeToggle />
+      {/* Background effect */}
+      <StarBackground />
+      {/* Navbar */}
+      <Navbar />
+      {/* Main content */}
+      <main>
+        <HeroSection />
+        <About />
+        <Skills />
+        <Projects />
+        <Contact />
+      </main>
+      {/* Footer */}
+      <Footer />
     </div>
   )
 }
