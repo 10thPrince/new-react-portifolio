@@ -115,10 +115,10 @@ const Contact = () => {
                                 <a href="#" target="_blank">
                                     <Linkedin />
                                 </a>
-                                <a href="#" target="_blank">
+                                <a href="https://x.com/me_princ3" target="_blank">
                                     <Twitter />
                                 </a>
-                                <a href="#" target="_blank">
+                                <a href="https://www.instagram.com/_nprinc_" target="_blank">
                                     <Instagram />
                                 </a>
                                 <a href="#" target="_blank">

@@ -1,4 +1,4 @@
-import cv from "../assets/Prince_CV.pdf";
+import cv from "../assets/Ntwari_Prince_Hugue_CV.pdf";
 import { Briefcase, Code, User } from "lucide-react";
 
 const About = () => {
