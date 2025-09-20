@@ -17,7 +17,7 @@ const projects = [
         image: "/projects/Analyst.png",
         tags: ["TypeScript", "TailwindCSS", "Next.js"],
         demoURL: "#",
-        githubURL: "#"
+        githubURL: "https://github.com/10thPrince/react."
     },
     {
         id: 3,
@@ -26,7 +26,7 @@ const projects = [
         image: "/projects/BookStore.png",
         tags: ["React", "Node.js", "Stripe"],
         demoURL: "#",
-        githubURL: "#"
+        githubURL: "https://github.com/10thPrince/book-store-1"
     },
 ]
 
