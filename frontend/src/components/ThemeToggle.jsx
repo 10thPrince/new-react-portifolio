@@ -29,7 +29,7 @@ const ThemeToggle = () => {
     }
   };
   return (
-    <button onClick={changeTheme} className={cn("fixed max-sm:hidden top-5 right-5 z-50 p-2 rounded-full transition-colors duration-300",
+    <button onClick={changeTheme} className={cn("fixed  top-5 md:top-4 right-20 sm:right-30 md:right-4 z-50 p-2 rounded-full transition-colors duration-300",
       "focus:outline-hidden"
     )}>
       {isDarkMode ? (
