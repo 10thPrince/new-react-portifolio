@@ -13,11 +13,11 @@ const Home = () => {
   return (
     <div className='min-h-screen bg-background text-foreground overflow-x-hidden'>
       {/* Theme toggle */}
-      <ThemeToggle />
+      
       {/* Background effect */}
-      <StarBackground />
+      
       {/* Navbar */}
-      <Navbar />
+      
       {/* Main content */}
       <main>
         <HeroSection />
@@ -27,7 +27,7 @@ const Home = () => {
         <Contact />
       </main>
       {/* Footer */}
-      <Footer />
+      
     </div>
   )
 }
