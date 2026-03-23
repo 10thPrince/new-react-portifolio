@@ -7,7 +7,7 @@ const Footer = () => {
         {" "}
         <p className="text-sm text-muted-foreground">
             &copy; {new Date().getFullYear()} {" "}
-            Princetech.co, All rights reserved.
+            www.ntwariprince.com, All rights reserved.
         </p>
 
         <a href="#hero" className="h-2 rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors">
