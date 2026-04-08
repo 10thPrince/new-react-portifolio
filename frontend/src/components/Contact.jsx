@@ -112,7 +112,7 @@ const Contact = () => {
                                 Connect With Me
                             </h4>
                             <div className="flex space-x-4 justify-center">
-                                <a href="#" target="_blank">
+                                <a href="https://www.linkedin.com/in/ntwari-prince-hugue/" target="_blank">
                                     <Linkedin />
                                 </a>
                                 <a href="https://x.com/me_princ3" target="_blank">
@@ -121,9 +121,9 @@ const Contact = () => {
                                 <a href="https://www.instagram.com/_nprinc_" target="_blank">
                                     <Instagram />
                                 </a>
-                                <a href="#" target="_blank">
+                                {/* <a href="#" target="_blank">
                                     <Twitch />
-                                </a>
+                                </a> */}
                             </div>
                         </div>
                     </div>

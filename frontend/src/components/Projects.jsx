@@ -3,30 +3,30 @@ import { ArrowRight, ExternalLink, Github } from 'lucide-react';
 const projects = [
     {
         id: 1,
-        title: "Blogging AI",
-        description: "An AI that makes it Easy to create and Manage your Blogs.",
-        image: "/projects/QuickBlog.png",
-        tags: ["React", "TailwindCSS", "Supabase"],
-        demoURL: "#",
-        githubURL: "#"
+        title: "Escape LTD Website",
+        description: "A website shocasing the Escape LTD company and it's services",
+        image: "/projects/escape.png",
+        tags: ["NextJs", "TailwindCSS", "Express", "TypeScript"],
+        demoURL: "https://escapeltd.rw",
+        githubURL: "https://github.com/10thPrince/escape-2"
     },
     {
         id: 2,
-        title: "Analyst",
-        description: "An app that is ready to help you in data Analysis with ease.",
-        image: "/projects/Analyst.png",
-        tags: ["TypeScript", "TailwindCSS", "Next.js"],
-        demoURL: "#",
-        githubURL: "https://github.com/10thPrince/react."
+        title: "Gentle Technical Services Website",
+        description: "A website describing Gentle Technical Services Company.",
+        image: "/projects/gentletech.png",
+        tags: ["TypeScript", "TailwindCSS", "NextJs"],
+        demoURL: "https://www.gentletechnical.com/",
+        githubURL: "https://github.com/10thPrince/GENTLE-TECHNICAL-SERVICES"
     },
     {
         id: 3,
-        title: "Book Store",
-        description: "A fst and secure online book store that sells books at a perfect Price.",
-        image: "/projects/BookStore.png",
-        tags: ["React", "Node.js", "Stripe"],
-        demoURL: "#",
-        githubURL: "https://github.com/10thPrince/book-store-1"
+        title: "ZENTROXLABS",
+        description: "A Website for a software agency that provide many software solutions.",
+        image: "/projects/zentrox.png",
+        tags: ["NextJs", "TailwindCSS", "TypeScript"],
+        demoURL: "https://zentroxlabs.vercel.app/",
+        githubURL: "https://github.com/10thPrince/ZENTROXLABS"
     },
 ]
 
